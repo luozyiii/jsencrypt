@@ -1,8 +1,8 @@
-Website
+官网
 ======================
 http://travistidwell.com/jsencrypt
 
-Introduction
+介绍
 ======================
 When browsing the internet looking for a good solution to RSA Javascript
 encryption, there is a whole slew of libraries that basically take the fantastic
